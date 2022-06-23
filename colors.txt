@@ -1,0 +1,4 @@
+orange - #ffa31a
+light grey - #808080
+light black - #1b1b1b
+white - #fff
